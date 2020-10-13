@@ -1,7 +1,9 @@
 # matplotlib-challenge
 # Objectives and Steps Taken
-* So the main objective was to analyze the data and finding important correlations
-* Throught this work, I created a bargraph , piechart scatterplot etc to analyze the variables
+* Analyze the mice study data and the impact of the pharmaceutical drugs
+* Analyze these datas and find important correlations
+* Analyze the consequences of using the Capomulin drug
+* Throught this work, I created a bargraph , piechart scatterplot etc to analyze the different variables
 
 # Observations and Insights
 * Interestingly, when we look at the pie plot, it shows that there is mostly an equal male and female mice distribution
