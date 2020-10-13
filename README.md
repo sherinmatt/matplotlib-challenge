@@ -1,12 +1,7 @@
 # matplotlib-challenge
-# Objectives
-* 
-*
-
-# Actions
-*
-*
-
+# Objectives and Steps Taken
+* Analyzing the data and finding correlation
+* Throught this work, I created a bargraph , piechart scatterplot etc to analyze the variables
 
 # Observations and Insights
 * Interestingly, when we look at the pie plot, it shows that there is mostly an equal male and female mice distribution
