@@ -1,5 +1,5 @@
 # matplotlib-challenge
-# Objective
+# Objectives
 * 
 *
 
