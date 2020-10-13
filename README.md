@@ -1,7 +1,8 @@
 # matplotlib-challenge
 
 # Objective
-
+* 
+*
 
 # Actions
 
