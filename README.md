@@ -1,5 +1,5 @@
 # matplotlib-challenge: Objectives
-* Analyze the performance of the capomulin pharmaceutical drug vs other drugs using the mice study data
+* Analyze the performance of the Capomulin pharmaceutical drug vs other drugs in this mice study data
 * Analyze these datas and find important correlations
 * Analyze the consequences of using the Capomulin drug
 
