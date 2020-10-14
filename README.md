@@ -1,7 +1,7 @@
 # matplotlib-challenge: Objectives
 * Analyze the performance of the Capomulin pharmaceutical drug vs other drugs in this mice study data
 * Analyze the data provided and find important correlations between the variables
-* Analyze the consequences of using the Capomulin drug
+* Analyze the consequences of using the Capomulin drug as opposed to other drugs
 
 # Steps Taken:
 * Firstly, I created a summary table that shows the mean,median, standard deviation and SEM of the tumor volume in the study.
