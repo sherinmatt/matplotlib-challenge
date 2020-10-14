@@ -1,9 +1,15 @@
-# matplotlib-challenge
-# Objectives and Steps Taken
-* Analyze the mice study data and the impact of the pharmaceutical drugs
+# matplotlib-challenge : Objectives and Steps Taken
+* Analyze the performance of the capomulin pharmaceutical drug vs other drugs using the mice study data
 * Analyze these datas and find important correlations
 * Analyze the consequences of using the Capomulin drug
-* Throught this work, I created a bargraph , piechart scatterplot etc to analyze the different variables
+
+# Steps Taken:
+* Firstly, I created a summary table that shows the mean,median, standard deviation and SEM of the tumor volume in the study.
+* In this work, I also created barcharts using Panda and Matplotlib to display the number of mice that went through drug treatments.
+* I created pieplots using Panda and Matplotlib to display the male vs female ratio
+* I created boxplots to display the total tumor volume and the treatment regimes
+* I created a scatterplot 
+* Lastly, I created a linear regression model graph to show correlation
 
 # Observations and Insights
 * Interestingly, when we look at the pie plot, it shows that there is mostly an equal male and female mice distribution
