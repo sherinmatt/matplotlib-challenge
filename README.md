@@ -11,6 +11,10 @@
       * NumPy
       * Scipy
 
+   ## Data:
+      * Mouse_metadata.csv
+      * Study_results.csv
+
    ## Steps Taken:
     * Firstly, I created a summary table that shows the mean,median, standard deviation and SEM of the tumor volume in the study.
     * In this work, I also created barcharts using Panda and Matplotlib to display the number of mice that went through drug treatments.
