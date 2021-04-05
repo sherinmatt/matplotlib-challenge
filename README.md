@@ -1,7 +1,7 @@
-# matplotlib-challenge:
+# matplotlib-challenge: linear regression model
 
    ## Background/Objectives
-      * Analyze the performance of the Capomulin pharmaceutical drug vs other drugs in this mice study data
+      * Analyze the performance of the Capomulin pharmaceutical drug vs other drugs in this mice study data. The goal is to utilize statistical modeling (linear regression) to analyze the impact of 4 different anti-cancer pharmaceutical drugs. 
       * Analyze the data provided and find important correlations between the variables
       * Analyze the consequences of using the Capomulin drug as opposed to other drugs
 
