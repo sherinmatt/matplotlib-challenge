@@ -16,9 +16,9 @@
       * Study_results.csv
 
    ## Steps Taken:
-    * Firstly, I created a summary table that shows the mean,median, standard deviation and SEM of the tumor volume in the study.
-    * In this work, I also created barcharts using Panda and Matplotlib to display the number of mice that went through drug treatments.
-    * Created pieplots using Panda and Matplotlib to display the male vs female ratio.
+    * Firstly, created a summary table that shows the mean,median, standard deviation and SEM of the tumor volume in the study.
+    * In this work, I also created barcharts using Pandas and Matplotlib to display the number of mice that went through drug treatments.
+    * Created pieplots using Pandas and Matplotlib to display the male vs female ratio.
     * Created boxplots to display the total tumor volume and the treatment regimes.
     * Developed a scatterplot to show the relation between mouse weight and tumor volume.
     * Lastly, created a linear regression model graph to show correlation.
