@@ -26,8 +26,8 @@
    ## Observations and Insights:
     * Interestingly, when we look at the pie plot, it shows that there is mostly an equal male and female mice distribution.
     * Also, looking at the average tumor volume vs. Mouse weight in Capomulin regimine scatterplot, we can see that as the weight of the mouse increases, the tumor   volume also increases.
-    * Furthermore, the scatterplot also show the correlation between increasing mouse weight and tumor volume for mice in capomulin. And the scatterplot has an ascending regression line thereby delineating a positive correlation between the variables.
-    * Overall, the Capomulin drug had strong effects on the mices tumor volume.
+    * Furthermore, the scatterplot also show the correlation between increasing mouse weight and tumor volume for mice in capomulin. And the scatterplot has an ascending regression line thereby delineating a possible correlation between the variables.
+    * Overall, it is possible that Capomulin drug had strong effects on the mices tumor volume.
    
    ## Constraints:
    Rows with null values/ repeating values
